@@ -25,7 +25,7 @@
 
 contact
 - :paperclip: [My Resume/CV](https://github.com/moayadalmarzook/moayadalmarzook/moayad_almarzook_CV23.pdf)
-- email: moayadalmarzook@gmail.com
+- :email: moayadalmarzook@gmail.com
 
 
 #### Profile Visits 
