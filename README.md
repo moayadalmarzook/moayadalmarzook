@@ -3,9 +3,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/moayad-almarzook/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
-###  PROFESSIONAL SUMMARY <br>
-masters degree in software engineering from university of scranton <br>
-bachelor degree in information technology from prince muhammed university<br>
+
 ### 🧰 Languages and Tools
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -37,7 +35,7 @@ contact
 <summary>
   More stuff about me
 </summary>
--gym enthusiast
+-gym enthusiast<br>
 - excellent cook
 </details>
 
