@@ -7,7 +7,6 @@
 masters degree in software engineering from university of scranton <br>
 bachelor degree in information technology from prince muhammed university<br>
 ### 🧰 Languages and Tools
-
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -38,9 +37,7 @@ contact
 <summary>
   More stuff about me
 </summary>
-
-<br >
-masters degree in software engineering from university of scranton <br>
-bachelor degree in information technology from prince muhammed university<br>
+-gym enthusiast
+- excellent cook
 </details>
 
