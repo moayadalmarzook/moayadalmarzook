@@ -19,8 +19,6 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-#
-
 
 contact
 - :paperclip: [My Resume/CV](https://github.com/moayadalmarzook/moayadalmarzook/moayad_almarzook_CV23.pdf)
@@ -28,6 +26,7 @@ contact
 
 
 #### Profile Visits 
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=moayadalmarzook.moayadalmarzook)
 
