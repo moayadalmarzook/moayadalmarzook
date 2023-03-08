@@ -8,7 +8,7 @@ Master degree in software engineering from the university of Scranton. currently
 
 * 🌍  I'm based in Dammam Saudi Arabia
 * ✉️  You can contact me at [moayadalmarzook@gmail.com](mailto:moayadalmarzook@gmail.com)
-* :paperclip: [Resume/CV](https://github.com/moayadalmarzook/moayadalmarzook/blob/main/moayad_almarzook_CV23.pdf)
+* :paperclip: [Resume/CV](https://github.com/moayadalmarzook/moayadalmarzook/blob/main/moayad_almarzook_CV2JS.pdf)
 
 ### Skills
 
