@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Moayad Almarzook
 ========================================================================================================================================
 
-Software engineer
+senior field engineer
 -----------------
 
-Master degree in software engineering from the university of Scranton. currently looking for a job as a full stack developer.
+Master degree in software engineering from the university of Scranton.
 
 * 🌍  I'm based in Dammam Saudi Arabia
 * ✉️  You can contact me at [moayadalmarzook@gmail.com](mailto:moayadalmarzook@gmail.com)
